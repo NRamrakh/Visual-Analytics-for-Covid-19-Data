@@ -13,12 +13,9 @@ We will be using the following datasets:
 
 1)This dataset contains the data of all the measures taken by governments of different countries to control the pandemic: https://www.acaps.org/covid-19-government-measures-dataset
 
-2) This dataset contains the real time data of covid-19 cases country wise : Real-time Covid 19 Data | Kaggle
+2) This dataset contains the real time data of covid-19 cases country wise : https://www.kaggle.com/gauravduttakiit/covid-19
 
-
-
-3) This dataset contains Covid-19 healthy diet dataset country wise:
-COVID-19 Healthy Diet Dataset | Kaggle
+3) This dataset contains Covid-19 healthy diet dataset country wise: https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset
 
 
 ## Target Users and Tasks: 
