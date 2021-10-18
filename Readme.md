@@ -37,7 +37,13 @@ Target Users: Our target users are common People
 
 **We are going to visualize these tasks in Tableau. These jams are the visual representation of how these tasks might look like.**
 
-**JAMS**
+## JAMS
 ![image](https://user-images.githubusercontent.com/70915043/137656397-1d94ccff-4034-4787-b5b6-cb7b81e298db.png)
+![image](https://user-images.githubusercontent.com/70915043/137656456-38781e05-f5dc-4d2f-b6f8-47a6c48c0764.png)
+![image](https://user-images.githubusercontent.com/70915043/137656480-d98a6e0e-04cd-4de2-81bf-76e1595734fb.png)
+![image](https://user-images.githubusercontent.com/70915043/137656508-f66a3699-c250-48bf-9f63-4333ed8f97bb.png)
+![image](https://user-images.githubusercontent.com/70915043/137656538-d7d61f9b-c621-4f73-949a-a4b98faa4f2a.png)
+![image](https://user-images.githubusercontent.com/70915043/137656562-41eb05db-23e0-431c-8ff6-06d38d7af355.png)
+
 
 
