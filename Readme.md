@@ -35,7 +35,7 @@ Target Users: Our target users are common People
 
 4) What is the correlation between the health of people, number of covid cases, deaths and recovered cases of different countries?
 
-**We are going to visualize these tasks in Tableau. These jams are the visual representation of how these tasks might look like.**
+## We are going to visualize these tasks in Tableau. These jams are the visual representation of how these tasks might look like.
 
 ## JAMS
 ![image](https://user-images.githubusercontent.com/70915043/137656397-1d94ccff-4034-4787-b5b6-cb7b81e298db.png)
