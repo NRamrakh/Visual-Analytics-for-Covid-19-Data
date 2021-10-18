@@ -27,13 +27,13 @@ Target Users: Our target users are common People
 
 ## Tasks:
 
-1)How did different measures taken by different countries to control the Pandemic impact the total number of Covid-19 cases over the time?
+1) How did different measures taken by different countries to control the Pandemic impact the total number of Covid-19 cases over the time?
 
 2) What is the impact of vegan diet and non-vegan diet on the recovered cases and deaths in different countries?
 
 3) What is the correlation between nutrients consumed by recovered people in different countries?
 
-4)What is the correlation between the health of people, number of covid cases, deaths and recovered cases of different countries?
+4) What is the correlation between the health of people, number of covid cases, deaths and recovered cases of different countries?
 
 **We are going to visualize these tasks in Tableau. These jams are the visual representation of how these tasks might look like.**
 
