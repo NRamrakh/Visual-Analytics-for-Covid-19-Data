@@ -42,5 +42,11 @@ Target Users: Our target users are common People
 ![image](https://user-images.githubusercontent.com/70915043/137656538-d7d61f9b-c621-4f73-949a-a4b98faa4f2a.png)
 ![image](https://user-images.githubusercontent.com/70915043/137656562-41eb05db-23e0-431c-8ff6-06d38d7af355.png)
 
+## Tableau Dashboards
+
+https://public.tableau.com/shared/SPDM7QYR9?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/ImpactofDietonCovidCases_16419114760880/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Book1_16419091918090/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 
